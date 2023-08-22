@@ -41,3 +41,20 @@ window.onload = function() {
     }, 1000)
 
 }
+
+// // Using setInterval :
+// var cdFunc =  setInterval(()=> {   
+//     console.log("cd", c) 
+//     if(c == 0 ) {
+//         console.log("indep")
+//         countdown.innerText = "HAPPY INDEPENDENCE DAY"; 
+//      //   countdown.style.fontSize = "2rem"; 
+//         countdown.style.color = "red";
+//         clearInterval(cdFunc);
+//     }    
+//     else {
+//         countdown.innerText = c ;
+//         c--;  
+//     }     
+    
+// },1000) 
