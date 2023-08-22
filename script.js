@@ -47,7 +47,7 @@ window.onload = function() {
 //     console.log("cd", c) 
 //     if(c == 0 ) {
 //         console.log("indep")
-//         countdown.innerText = "HAPPY INDEPENDENCE DAY"; 
+//         countdown.innerText = "Many More Happy Returns of the Day!!!"; 
 //      //   countdown.style.fontSize = "2rem"; 
 //         countdown.style.color = "red";
 //         clearInterval(cdFunc);
